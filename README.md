@@ -1,4 +1,4 @@
-2006_Mar_Homotopy_lambda_calculus
+2006_03_Homotopy_lambda_calculus
 =================================
 
 This is the pdf file of the notes on homotopy lambda calculus that I have written in 2006. 
